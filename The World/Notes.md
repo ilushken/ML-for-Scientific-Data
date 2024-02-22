@@ -23,3 +23,10 @@ All actions should be encoded by same number of numbers
 
 Stats via point buy system
 Initiative grid to do actions (roll + initiative value)
+
+
+Mating: one creatrue offers and shows its stats (characteristics + current HP), another checks and gives an answer 1 or 0
+
+
+MAYBE:
+ - delete creature immediately after its death
